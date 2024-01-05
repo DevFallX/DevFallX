@@ -1,6 +1,6 @@
 - 👋 olá eu sou @DevFallX
 - 👀 eu tenho interesse em aprender e ser um bom programador e seguir carreira 
-- 🌱 atualmente estou estudando logica de programação e predento iniciar phyton , java , javascript , para no futuro ser um fullstack
+- 🌱 atualmente estou estudando logica de programação e pretendo iniciar phyton , java , javascript , para no futuro ser um fullstack
 - 📫 contato : devfallx98@gmail.com
 
 <!---
